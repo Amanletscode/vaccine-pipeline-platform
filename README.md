@@ -11,7 +11,7 @@ A comprehensive intelligence platform for vaccine clinical trial analysis, compe
 - 🔬 **Detailed Trial Analysis**: Comprehensive trial details including enrollment, design, eligibility, and outcomes
 - 🆚 **Competitor Analysis**: Automatic competitor identification and comparison
 
-## Quick Start
+
 
 ### Local Setup
 
@@ -112,7 +112,6 @@ For issues or questions:
 
 Developed by Aman
 
----
 
-**Ready for your board meeting presentation! 🚀**
+
 
